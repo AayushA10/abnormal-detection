@@ -1,0 +1,7 @@
+outputs/
+*.mp4
+*.npy
+*.h5
+__pycache__/
+*.tif
+models/

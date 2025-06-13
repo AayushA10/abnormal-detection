@@ -1,0 +1,9 @@
+torch==2.3.0         # cpu build is fine
+torchvision==0.18.0
+torchaudio==2.3.0
+pandas
+numpy
+tqdm
+matplotlib
+streamlit
+Pillow
